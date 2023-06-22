@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan ACTUALIZADO",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "El cliente requiere un landing page",
+      "id": 1
+    },
+    {
+      "nombre": "Karen Actualizado",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "asdaqqw",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Nicolas Roldan",
+      "empresa": "El Trapiche",
+      "email": "correo@correo.com",
+      "telefono": "4134198",
+      "notas": "El cliente requiere un E-commerce",
+      "id": 6
+    }
+  ]
+}
